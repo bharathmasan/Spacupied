@@ -1,0 +1,6 @@
+{
+  "name": "Spacupied",
+  "description": "Spacupied is a modern real estate rental and leasing platform serving Chennai, Tamil Nadu, India — connecting property owners, landlords, landowners, tenants, and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
